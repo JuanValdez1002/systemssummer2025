@@ -1,0 +1,8 @@
+[package]
+name = "assignment_module_2"
+version = "0.1.0"
+edition = "2021"
+
+description = "Assignment Module 2."
+
+[dependencies]

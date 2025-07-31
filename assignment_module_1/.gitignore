@@ -1,0 +1,2 @@
+# Directory for compilation outputs. Managed by Cargo.
+/target/
